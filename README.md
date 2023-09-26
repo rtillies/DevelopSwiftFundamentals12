@@ -1,5 +1,5 @@
 # Develop in Swift Fundamentals
-[Xcode 12 Textbook](https://books.apple.com/us/book/develop-in-swift-fundamentals/id1556365994)
+[Xcode 13 Textbook](https://books.apple.com/us/book/develop-in-swift-fundamentals/id1581182804)
 
 ## Unit 1 - Getting Started with App Development
 * Swift Lessons
@@ -13,7 +13,7 @@
   * Documentation
   * Interface Builder Basics
 * Project
-  * Light
+  * [Light](1 - Getting Started/Light)
 
 ## Unit 2 - Introduction to UIKit
 * Swift Lessons
